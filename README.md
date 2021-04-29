@@ -35,6 +35,19 @@ This directory contains various types of algorithm questions like Dynamic Progra
 6. [Sorting](algorithms/sorting)
 7. [Bit Manipulation](algorithms/bit_manipulation)
 
+### Bookmarks
+
+You can find useful links in this repository in the different markdown files. Below is a table of contents.
+
+| Category | Link |
+| :-- | :--: |
+| Articles | [Click Here](bookmarks/articles.md) |
+| Books | [Click Here](bookmarks/books.md) |
+| Topics | [Click Here](bookmarks/topics.md) |
+| Tutorials | [Click Here](bookmarks/tutorials.md) |
+| Videos | [Click Here](bookmarks/videos.md) |
+| Misc. | [Click Here](bookmarks/misc.md) |
+
 ## Things need to be done
 
 As you can see, the repo is still in its infancy. Here are some key things in the to-do.
