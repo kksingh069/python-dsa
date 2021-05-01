@@ -10,8 +10,7 @@ def bubble_sort(array):
 
 
 def bubble_sort_optimized(array):
-    """
-    """
+
     has_swapped = True
 
     num_of_iterations = 0
