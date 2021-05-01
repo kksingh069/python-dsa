@@ -11,9 +11,9 @@ def find_all_paths(graph, start, end, path=[]):
             return []
         paths = []
         for node in graph[start]:
-            if node not in path: #to prevent cyclic rotations
+            if node not in path: 
                 newpaths = find_all_paths(graph, node, end, path)
-                #print(newpaths)
+                
                 for newpath in newpaths:
                     paths.append(newpath)
         return paths
