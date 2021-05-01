@@ -7,7 +7,6 @@ def gnome_sort(arr):
     Examples:
         [0, 2, 2, 3, 5]
 
-        >>> gnome_sort([])
         []
         >>> gnome_sort([-2, -45, -5])
         [-45, -5, -2]
