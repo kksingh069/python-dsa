@@ -5,7 +5,6 @@
 def gnome_sort(arr):
     """
     Examples:
-        >>> gnome_sort([0, 5, 2, 3, 2])
         [0, 2, 2, 3, 5]
 
         >>> gnome_sort([])
