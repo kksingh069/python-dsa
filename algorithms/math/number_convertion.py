@@ -21,8 +21,7 @@ def verify_base(x):
 
 
 def decimal_value(x):
-    """
-    """
+   
     if(x >= '0' and x <= '9'):
         return int(x)
     elif(x >= 'a' and x <= 'z'):
