@@ -1,4 +1,3 @@
-# Concept is almost same as 01 Knapsack Problem
 
 def min_coin(coins, total):
     cols = total + 1
