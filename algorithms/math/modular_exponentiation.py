@@ -12,7 +12,6 @@ def power(x, y, p) :
         if ((y & 1) == 1) : 
             res = (res * x) % p 
   
-        # y must be even now 
         y = y >> 1      # y = y/2 
         x = (x * x) % p 
           
