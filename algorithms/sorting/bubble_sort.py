@@ -1,5 +1,4 @@
 """
-Bubble Sort worst time complexity occurs when array is reverse sorted - O(n^2)
 Best time scenario is when array is already sorted - O(n)
 """
 
