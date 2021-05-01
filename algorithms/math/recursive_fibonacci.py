@@ -1,5 +1,4 @@
 """
-    Recursivly compute the Fibonacci sequence using two different methods
 """
 
 def rec_fib(n):
