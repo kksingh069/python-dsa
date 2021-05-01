@@ -7,7 +7,6 @@ def gnome_sort(arr):
     Examples:
 
         []
-        [-45, -5, -2]
     """
 
     # first case
