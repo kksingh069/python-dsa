@@ -12,7 +12,6 @@ def binary_rec_fib(n):
     elif n == 0:
         return 0
     else:
-        # This recursive step takes advantage of the following two properties of the fibonacci numbers:
         # Fibo(2n) = Fibo(n+1)^2 + Fibo(n)^2
         # Fibo(2n+1) = Fibo(n+1)^2 - Fibo(n-1)^2
         sgn = n % 2
