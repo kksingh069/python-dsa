@@ -1,10 +1,5 @@
 def check_luhn(card_number):
-    """
-
-    False
-    >>> check_luhn("490154203237518")
-    True
-    """
+   
     card_len = len(card_number)
 
     check_sum = 0
