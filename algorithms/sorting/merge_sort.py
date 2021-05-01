@@ -2,7 +2,6 @@
 High level explanation:
 
 merge_sort is a Divide and conquer algorithm that splits in halves the array and
-then builds it back up by merging and sorting at the same time its elements.
 
 Time complexity:
 
