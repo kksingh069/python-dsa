@@ -9,7 +9,6 @@
 			performing bit (and) operation between both, then n&(n-1) = 1000
 			
 	Conclusion:
-		The result of the above bit "and" operation will be zero, ONLY if the given number is a pwoer of two.
 
 	NOTE:
 		- Since Python considers 0 as "false", then we are gonna return the inversion of the result; i.e. return not(n&(n-1).
