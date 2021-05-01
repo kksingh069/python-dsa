@@ -3,10 +3,7 @@
 
 
 def gnome_sort(arr):
-    """
-
-        []
-    """
+  
 
     size = len(arr)
 
