@@ -3,7 +3,6 @@ from collections import defaultdict
 
 def topological_sort(graph: dict) -> list:
 
-    # Keeps track of the "degree" of a node; once this reaches 0, we push it onto the output.
     leading_in = defaultdict(lambda: 0)
 
     for key, values in graph.items():
