@@ -12,7 +12,6 @@ class Graph:
         self.visited = [0] * self.vertices  
         self.distances = [max_weight] * self.vertices
 
-    # Add edge to graph start --> end point with specific weight!
     def add_edge(self, start, end, weight):
         self.graph[start][end] = weight
 
@@ -41,7 +40,6 @@ class Graph:
                 # check for edge and visited
                 val = self.graph[min_index][adj]
                 if not self.visited[adj] and val != 0:
-                    # check if needed update
                     if self.distances[adj] > self.distances[min_index] + val:
                         self.distances[adj] = self.distances[min_index] + val
         self.print_dist(self.distances)
