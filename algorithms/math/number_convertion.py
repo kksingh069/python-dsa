@@ -10,8 +10,7 @@ default = 10
 
 
 def verify_base(x):
-    """
-    """
+    
     try:
         return int(x)
     except:
