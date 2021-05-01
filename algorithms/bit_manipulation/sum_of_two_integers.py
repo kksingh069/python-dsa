@@ -1,7 +1,3 @@
-# Question: Calculate the sum of two integers a and b but without the
-# 			use of the operators + and -.
-
-#Solution
 def getSum(a, b):
         """
         :type a: int
