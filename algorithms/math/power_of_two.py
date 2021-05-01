@@ -3,7 +3,6 @@
 		ex: 4 --> 2^2 --> 100 --> k = 2
 		
 			
-	Conclusion:
 
 	NOTE:
 """		
