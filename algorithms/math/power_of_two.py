@@ -1,6 +1,5 @@
 """
 	This simple code is to check if a given number is a poer of two or not.
-		ex: 4 --> 2^2 --> 100 --> k = 2
 		
 			
 
