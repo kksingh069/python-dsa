@@ -17,7 +17,6 @@ def gcd(x, y):
 
 	return y
 
-# Recursive Solution
 def gcd(x, y):
 	if x == 0:
 		return y
