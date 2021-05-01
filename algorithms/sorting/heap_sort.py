@@ -19,7 +19,6 @@ def heapify(nums, heap_size, root_index):
 def heap_sort(nums):
     n = len(nums)
 
-    # Create a Max Heap from the list
     # of i by 1
     for i in range(n, -1, -1):
         heapify(nums, n, i)
