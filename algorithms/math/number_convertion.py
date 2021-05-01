@@ -47,7 +47,6 @@ def convert(n, from_base, to_base):
     ~> "2"
 
     n -> the number
-    from_base -> base of n |
     """
     n = str(n)
     from_base = verify_base(from_base)
