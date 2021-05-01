@@ -11,7 +11,6 @@ def bubble_sort(array):
 
 def bubble_sort_optimized(array):
     """
-    Optimizes on bubble sort by taking care of already swapped cases
     Reference - https://github.com/prabhupant/python-ds/pull/346
     """
     has_swapped = True
