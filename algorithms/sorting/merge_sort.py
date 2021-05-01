@@ -3,7 +3,6 @@
 
 Time complexity:
 
-merge_sort has a time complexity of O(n log n).
 """
 
 def merge_sort(arr):
