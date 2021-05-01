@@ -1,12 +1,5 @@
 def front_and_back_search(lst, item):
-    '''
-    args:
-    lst: an unsorted array of integers
-    item: data to be found
-
-    return:
-    item which is found else False
-    '''
+  
     rear=0
     front=len(lst)-1
     u=None
@@ -16,7 +9,7 @@ def front_and_back_search(lst, item):
         while rear<=front:
             if item==lst[rear] or item==lst[front]:
                 u=''
-                return True ##item found
+                return True 
             elif item!=lst[rear] and item!=lst[front]:
                 if item > lst[rear]:
                     rear=rear+1
