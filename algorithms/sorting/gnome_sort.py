@@ -4,7 +4,6 @@
 
 def gnome_sort(arr):
     """
-    Examples:
 
         []
     """
