@@ -1,5 +1,3 @@
-# Reference - https://www.geeksforgeeks.org/greedy-algorithm-egyptian-fraction/
-
 import math
 
 def egyptian_fraction(nr, dr):
