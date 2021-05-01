@@ -1,6 +1,4 @@
-"""
 
-"""
 
 def counting_sort(arr):
     # Find min and max values
