@@ -1,8 +1,3 @@
-
-
-
-
-
 def find_all_paths(graph, start, end, path=[]):
         path = path + [start]
         if start == end:
