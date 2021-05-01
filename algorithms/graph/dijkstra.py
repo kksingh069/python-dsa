@@ -34,7 +34,6 @@ class Graph:
             self.visited[min_index] = 1
 
             for adj in r(self.vertices):
-                # check for edge and visited
                 val = self.graph[min_index][adj]
                 if not self.visited[adj] and val != 0:
                     if self.distances[adj] > self.distances[min_index] + val:
