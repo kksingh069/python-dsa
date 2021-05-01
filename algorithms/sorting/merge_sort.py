@@ -1,7 +1,6 @@
 """
 High level explanation:
 
-merge_sort is a Divide and conquer algorithm that splits in halves the array and
 
 Time complexity:
 
