@@ -3,7 +3,6 @@ High level description:
 
 Time complexity:
 
-Auxiliary Space: O(n+k)
 """
 
 def counting_sort(arr):
