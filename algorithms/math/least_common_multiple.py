@@ -1,5 +1,4 @@
-"""
-"""
+
 
 from greatest_common_divisor import gcd
 
