@@ -14,4 +14,3 @@ test_data  = ['f','b','z','a','x']
 print(insertion_sort(test_data))
 
 # Resulting output:
-# [3, 4, 5, 6, 9, 27]
