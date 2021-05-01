@@ -13,7 +13,6 @@ def verify_base(x):
     """
     Verify if already is an integer
     If is not verify if is in the bases
-    If is not return the default base
     """
     try:
         return int(x)
@@ -71,7 +70,6 @@ def convert(n, from_base, to_base):
     from_base = verify_base(from_base)
     to_base = verify_base(to_base)
 
-    # Corner case 0
     if(n == "0"):
         return n
 
@@ -81,7 +79,6 @@ def convert(n, from_base, to_base):
     else:
         negative = False
 
-    # We convert to decimal because is the easy way to convert to all
     multi = 1
     decimal_number = 0
     if(from_base == 10):
@@ -128,7 +125,6 @@ def test_convert():
     print(convert("179", 10, 16) == "b3")
     print(convert("b3", 16, 10) == "179")
 
-    # Negative Tests
     print("Negative Tests")
     print(convert("-179", 10, 16) == "-b3")
     print(convert("-b3", 16, 10) == "-179")
