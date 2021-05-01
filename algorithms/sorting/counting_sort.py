@@ -1,6 +1,5 @@
 """
 High level description:
-Counting sort is a sorting technique based on keys between a specific range,
 
 Time complexity:
 
