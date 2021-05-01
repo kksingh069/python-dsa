@@ -6,7 +6,6 @@
 	Conclusion:
 
 	NOTE:
-		- BUT If n = 0, the result will be zero indicating that 0 is a power of 2, wich is not true.
 """		
 		
 
