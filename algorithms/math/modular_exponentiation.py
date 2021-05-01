@@ -1,5 +1,3 @@
-  
-
 def power(x, y, p) : 
     res = 1     
   
