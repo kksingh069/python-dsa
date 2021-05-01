@@ -40,10 +40,8 @@ class Graph:
             if ((self.vertices - 1) <= edge):
                 break
 
-            # Take value
             value = self.graph[index]
 
-            # check cycle
             fir, sec = self.search(parent_ranks, value[0]), self.search(
                 parent_ranks, value[1])
 
