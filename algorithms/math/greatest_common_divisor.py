@@ -1,6 +1,5 @@
 """
 
-O(log(n))
 """
 def gcd(x, y):
 	if x == 0:
