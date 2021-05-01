@@ -32,7 +32,6 @@ class Graph:
             parent_ranks[sec] = fir
             ranks[fir] += 1
 
-    # run mst alghoritm main part.
 
     def run_mst(self, ranks, parent_ranks, answer):
         edge, index = 0, 0
