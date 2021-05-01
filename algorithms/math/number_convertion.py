@@ -22,7 +22,6 @@ def verify_base(x):
 
 def decimal_value(x):
     """
-    ord(x) is a function that return the number in asc2 table
     """
     if(x >= '0' and x <= '9'):
         return int(x)
@@ -31,7 +30,6 @@ def decimal_value(x):
     elif(x >= 'A' and x <= 'Z'):
         return int(ord(x) - ord('A') + 10)
     else:
-        # Error
         raise Exception('Number not valid for: ', x)
 
 
