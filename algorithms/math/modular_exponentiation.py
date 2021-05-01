@@ -9,7 +9,6 @@ def power(x, y, p) :
   
     while (y > 0) : 
           
-        # If y is odd, multiply 
         # x with result 
         if ((y & 1) == 1) : 
             res = (res * x) % p 
