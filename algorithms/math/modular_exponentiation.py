@@ -1,7 +1,7 @@
   
 
 def power(x, y, p) : 
-    res = 1     # Initialize result 
+    res = 1     
   
     x = x % p  
   
