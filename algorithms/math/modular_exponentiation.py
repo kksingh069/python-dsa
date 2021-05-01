@@ -5,7 +5,6 @@
 def power(x, y, p) : 
     res = 1     # Initialize result 
   
-    # Update x if it is more 
     # than or equal to p 
     x = x % p  
   
