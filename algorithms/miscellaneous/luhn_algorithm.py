@@ -2,7 +2,6 @@ def check_luhn(card_number):
     """
     Luhn algorithm or Luhn formula is a simple checksum formula
 
-    It takes a number as an input
     and returns true or false
 
     :param card_number:
