@@ -1,7 +1,5 @@
 '''
 High Level Description:
-This algorithm segments the list into sorted and unsorted parts. 
-Time Complexity:
 The overall time complexity is O(nlog(n)).
 '''
 
@@ -44,7 +42,6 @@ def heap_sort(nums):
         heapify(nums, i, 0)
 
 
-# Verify it works
 random_list_of_nums = [35, 12, 43, 8, 51]
 heap_sort(random_list_of_nums)
 print(random_list_of_nums)
