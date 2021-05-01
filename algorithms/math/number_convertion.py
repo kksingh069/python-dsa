@@ -51,7 +51,6 @@ def convert(n, from_base, to_base):
     This function recive 3 parameters
     n -> the number
     from_base -> base of n |
-    to_base -> base of the result |
     """
     n = str(n)
     from_base = verify_base(from_base)
