@@ -37,4 +37,3 @@ merge_sort(test_array)
 
 print(test_array)
 
-# This code is contributed by Mayank Khanna
