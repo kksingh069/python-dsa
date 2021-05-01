@@ -11,7 +11,6 @@ def print_max_activities(s, f):
     i = 0
     print(i, end=' ')
 
-    # for the rest
     for j in range(n):
         if s[j] >= f[i]:
             print(j, end=' ')
