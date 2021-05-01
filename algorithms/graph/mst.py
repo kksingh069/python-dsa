@@ -12,7 +12,6 @@ class Graph:
         value = [start, end, weight]
         self.graph.append(value)
 
-    # Simple search alghoritm
     def search(self, parent_ranks, index):
         if parent_ranks[index] != index:
             return self.search(parent_ranks, parent_ranks[index])
