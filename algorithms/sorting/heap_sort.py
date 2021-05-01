@@ -8,11 +8,9 @@ def heapify(nums, heap_size, root_index):
     if left_child < heap_size and nums[left_child] > nums[largest]:
         largest = left_child
 
-    # Do the same for the right child of the root
     if right_child < heap_size and nums[right_child] > nums[largest]:
         largest = right_child
 
-    # If the largest element is no longer the root element, swap them
     if largest != root_index:
         nums[root_index], nums[largest] = nums[largest], nums[root_index]
         # Heapify the new root element to ensure it's the largest
