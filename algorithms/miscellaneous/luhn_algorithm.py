@@ -3,7 +3,6 @@ def check_luhn(card_number):
 
     and returns true or false
 
-    :param card_number:
 
     Examples:
 
