@@ -1,4 +1,3 @@
-# to compute modular power 
   
 
 def power(x, y, p) : 
