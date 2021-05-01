@@ -1,7 +1,6 @@
 def check_luhn(card_number):
     """
     Luhn algorithm or Luhn formula is a simple checksum formula
-    used to validate a variety of identification numbers, such as
 
     It takes a number as an input
     (Assuming cardnumber as a string)
