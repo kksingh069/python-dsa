@@ -6,10 +6,8 @@ class Graph:
     def __init__(self, vertices):
 
         self.vertices = vertices
-        # Values will be [start_point, end_point, weight]
         self.graph = []
 
-    # Add edge to graph
     def add_edge(self, start, end, weight):
         value = [start, end, weight]
         self.graph.append(value)
