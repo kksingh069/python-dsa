@@ -1,5 +1,3 @@
-
-
 def main():
     n = int(input("insert number"))
     fib = [1, 1]
