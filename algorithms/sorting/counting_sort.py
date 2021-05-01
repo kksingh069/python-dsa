@@ -3,7 +3,6 @@ High level description:
 Counting sort is a sorting technique based on keys between a specific range,
 with efective performance on the predetermined range size of the values.   
 It works by counting the number of objects having distinct key values (kind of hashing). 
-Then doing some arithmetic to calculate the position of each object in the output sequence.
 
 Time complexity:
 
