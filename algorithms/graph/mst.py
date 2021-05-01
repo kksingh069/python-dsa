@@ -1,4 +1,3 @@
-# i checked your other py files and decided that i would go for default dict
 from collections import defaultdict
 r = range
 
