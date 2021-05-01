@@ -62,7 +62,6 @@ class Graph:
         # sort the graph
         self.graph = sorted(self.graph, key=lambda item: item[2])
 
-        # For this alghoritm we need two array.
         ranks = [0] * self.vertices
         parent_ranks = [_ for _ in r(self.vertices)]
         answer = []
