@@ -4,8 +4,6 @@
 			8 --> 2^3 --> 1000 --> k = 3
 			16--> 2^4 --> 10000 --> k = 4
 		
-		assume that n is a power of two, then (n-1)&(n) will be zero;
-		ex:
 			n = 8 --> (1000)  , n-1 = 7 ---> (0111)
 			performing bit (and) operation between both, then n&(n-1) = 0000
 			
