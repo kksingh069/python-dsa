@@ -1,7 +1,6 @@
 #Prints a maximum set of activities that can be done by a 
 #single person, one at a time
 #n --> Total number of activities 
-#s[]--> An array that contains start time of all activities 
 
 def print_max_activities(s, f):
     n = len(f)
