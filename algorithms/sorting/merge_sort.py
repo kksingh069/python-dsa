@@ -1,5 +1,4 @@
 """
-High level explanation:
 
 
 Time complexity:
