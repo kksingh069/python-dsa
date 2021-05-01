@@ -1,9 +1,4 @@
-"""
 		
-			
-
-	NOTE:
-"""		
 		
 
 def pow_of_two(n):
