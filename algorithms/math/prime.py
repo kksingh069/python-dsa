@@ -12,5 +12,4 @@ def prime(limit):
             print(count)
             
         count += 2
-
 prime(100)
