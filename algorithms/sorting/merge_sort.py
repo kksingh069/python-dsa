@@ -11,7 +11,6 @@ def merge_sort(arr):
 
         i = j = k = 0
 
-        # Copy data to temp arrays L[] and R[]
         while i < len(L) and j < len(R):
             if L[i] < R[j]:
                 arr[k] = L[i]
