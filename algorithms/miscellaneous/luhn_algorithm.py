@@ -8,7 +8,6 @@ def check_luhn(card_number):
     It takes a number as an input
     (Assuming cardnumber as a string)
     and returns true or false
-    based upon whether number is valid or not
 
     :param card_number:
     :return: bool: valid or not
