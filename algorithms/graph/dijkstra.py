@@ -5,12 +5,9 @@ max_weight = sys.maxsize
 
 
 class Graph:
-    # Class initializer
     def __init__(self, vertices):
-        # num of vertices and our starting graph
         self.vertices = vertices
 
-        # Values will be [[]] two deminsial array with
         # columns for start going to rows.
         self.graph = [[0] * self.vertices for _ in r(self.vertices)]
         self.visited = [0] * self.vertices  # to control visited vertices
