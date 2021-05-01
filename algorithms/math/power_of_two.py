@@ -1,5 +1,4 @@
 """
-	This simple code is to check if a given number is a poer of two or not.
 		
 			
 
