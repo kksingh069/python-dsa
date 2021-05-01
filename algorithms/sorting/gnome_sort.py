@@ -8,7 +8,6 @@ def gnome_sort(arr):
         []
     """
 
-    # first case
     size = len(arr)
 
     if size <= 1:
