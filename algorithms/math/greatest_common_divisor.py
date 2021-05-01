@@ -4,7 +4,6 @@ High Level Description:
 Time Complexity:
 O(log(n))
 """
-# Iterative Solution
 def gcd(x, y):
 	if x == 0:
 		return y
