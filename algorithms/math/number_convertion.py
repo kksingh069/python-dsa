@@ -11,7 +11,6 @@ default = 10
 
 def verify_base(x):
     """
-    Verify if already is an integer
     """
     try:
         return int(x)
