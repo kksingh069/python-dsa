@@ -1,4 +1,3 @@
-# Program that prints out the fibonacci sequence until a given number
 
 
 def main():
