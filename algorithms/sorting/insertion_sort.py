@@ -1,5 +1,3 @@
-
-
 def insertion_sort(lst):
     for i in range(1,len(lst)):
         while(i > 0 and lst[i] < lst[i - 1]):
