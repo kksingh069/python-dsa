@@ -1,4 +1,3 @@
-# Question: Find the sum of number of set bits in all the numbers in the range [1, n].
 
 def countBits(n):
     
@@ -14,6 +13,3 @@ def countBits(n):
         res[i] = res[i//2] + (i & 1)
     return sum(res)
     
-
-# Extension: Find the sum of number of set bits in all the numbers in the range [m, n].
-# Answer: In countBits(m, n), return sum(res) - sum(res[:m])
