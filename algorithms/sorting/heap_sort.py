@@ -1,5 +1,4 @@
-'''
-'''
+
 
 def heapify(nums, heap_size, root_index):
     # Assume the index of the largest element is the root index
