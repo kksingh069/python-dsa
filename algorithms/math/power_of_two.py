@@ -14,7 +14,6 @@
 	NOTE:
 		- Since Python considers 0 as "false", then we are gonna return the inversion of the result; i.e. return not(n&(n-1).
 		- BUT If n = 0, the result will be zero indicating that 0 is a power of 2, wich is not true.
-			So to fix that, we are going to perform  an extra logical "and" operation with the oreginal number.
 """		
 		
 
