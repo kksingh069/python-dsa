@@ -1,4 +1,3 @@
-# This is to find the sum of digits of a number until it is a single digit
 
 def sum_of_digits(n):
     n = int(input()) # here n is the number
