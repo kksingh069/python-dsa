@@ -2,8 +2,6 @@ from collections import defaultdict
 
 
 def topological_sort(graph: dict) -> list:
-    """Provides the topologically sorted nodes of a graph in a list.  Takes input as a dictionary,
-    where the key is a node and the value is a list of the nodes that the key is a source node for."""
 
     # Keeps track of the "degree" of a node; once this reaches 0, we push it onto the output.
     leading_in = defaultdict(lambda: 0)
