@@ -5,7 +5,6 @@ def heapify(nums, heap_size, root_index):
     left_child = (2 * root_index) + 1
     right_child = (2 * root_index) + 2
 
-    # than the current largest element, then update the largest element
     if left_child < heap_size and nums[left_child] > nums[largest]:
         largest = left_child
 
