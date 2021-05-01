@@ -24,7 +24,6 @@ def verify_base(x):
 def decimal_value(x):
     """
     ord(x) is a function that return the number in asc2 table
-    we use ord to get the number of an caracter
     """
     if(x >= '0' and x <= '9'):
         return int(x)
