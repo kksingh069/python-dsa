@@ -1,6 +1,5 @@
 """
 High Level Description:
-Given two input integers, find their Greatest Common Divisor.
 
 Time Complexity:
 O(log(n))
