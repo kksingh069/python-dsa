@@ -22,7 +22,6 @@ def heap_sort(nums):
     # Create a Max Heap from the list
     # The 2nd argument of range means we stop at the element before -1 i.e.
     # the first element of the list.
-    # The 3rd argument of range means we iterate backwards, reducing the count
     # of i by 1
     for i in range(n, -1, -1):
         heapify(nums, n, i)
