@@ -12,7 +12,6 @@ def binary_rec_fib(n):
     elif n == 0:
         return 0
     else:
-        # Fibo(2n+1) = Fibo(n+1)^2 - Fibo(n-1)^2
         sgn = n % 2
         return binary_rec_fib((n-sgn)/2 + 1)**2 - ((-1)**sgn) * binary_rec_fib((n+sgn)/2 - 1)**2
 
