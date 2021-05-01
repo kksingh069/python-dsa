@@ -43,9 +43,7 @@ def to_special_caracter(x):
 
 def convert(n, from_base, to_base):
     """
-    This algorithm convert numbers between any base to any base like:
 
-    convert("10",2,10)
     ~> "2"
 
     This function recive 3 parameters
