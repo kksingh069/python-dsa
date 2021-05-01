@@ -1,7 +1,6 @@
 def check_luhn(card_number):
     """
 
-    and returns true or false
 
 
     Examples:
