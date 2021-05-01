@@ -1,5 +1,4 @@
 '''
-Gnome sort is not best sorting algorithms but sure it takes its pride.
 It has time O(n^2)
 '''
 
@@ -22,7 +21,6 @@ def gnome_sort(arr):
     if size <= 1:
         return arr
     ind = 0
-    # while loop
     while ind < size:
         if ind == 0:
             ind += 1
