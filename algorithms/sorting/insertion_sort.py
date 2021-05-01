@@ -13,4 +13,3 @@ print(insertion_sort(test_data))
 test_data  = ['f','b','z','a','x']
 print(insertion_sort(test_data))
 
-# Resulting output:
