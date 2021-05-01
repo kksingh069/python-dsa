@@ -1,6 +1,5 @@
 """
 High Level Description:
-backwards and finding a slot. This forms a sorted array.
 Time Complexity:
 """
 
