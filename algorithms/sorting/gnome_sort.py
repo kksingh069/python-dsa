@@ -1,5 +1,4 @@
 '''
-It has time O(n^2)
 '''
 
 
