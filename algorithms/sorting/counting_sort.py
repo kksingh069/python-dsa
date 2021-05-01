@@ -1,7 +1,6 @@
 """
 High level description:
 Counting sort is a sorting technique based on keys between a specific range,
-with efective performance on the predetermined range size of the values.   
 
 Time complexity:
 
