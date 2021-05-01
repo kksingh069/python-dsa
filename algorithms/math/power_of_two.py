@@ -6,7 +6,6 @@
 		
 			n = 8 --> (1000)  , n-1 = 7 ---> (0111)
 			n = 12 --> (1100)  , n-1 = 11 ---> (1011)
-			performing bit (and) operation between both, then n&(n-1) = 1000
 			
 	Conclusion:
 
