@@ -6,5 +6,4 @@ def sum_of_digits(n):
     else:
         print("9")
         
-# This method reduces time complexity by a factor of n and also without using any loop
 
