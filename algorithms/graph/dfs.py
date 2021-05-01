@@ -25,9 +25,7 @@ class Graph:
   
         visited =[False]*(V) 
   
-        # Call the recursive helper function to print 
-        # DFS traversal starting from all vertices one 
-        # by one 
+        # Call the recursive helper 
         for i in range(V): 
             if visited[i] == False: 
                 self.DFSUtil(i, visited) 
