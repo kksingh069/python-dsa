@@ -1,10 +1,6 @@
 def check_luhn(card_number):
     """
 
-
-
-    Examples:
-
     False
     >>> check_luhn("490154203237518")
     True
