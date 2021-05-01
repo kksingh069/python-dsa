@@ -57,9 +57,7 @@ class Graph:
         for start, end, weight in answer:
             print(f"{start} - {end} --> {weight}")
 
-    # Main function for mst alghoritm
     def MST(self):
-        # sort the graph
         self.graph = sorted(self.graph, key=lambda item: item[2])
 
         ranks = [0] * self.vertices
