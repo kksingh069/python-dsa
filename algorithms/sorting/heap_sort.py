@@ -1,6 +1,5 @@
 '''
 High Level Description:
-The overall time complexity is O(nlog(n)).
 '''
 
 def heapify(nums, heap_size, root_index):
