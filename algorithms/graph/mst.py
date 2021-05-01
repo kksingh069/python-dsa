@@ -46,9 +46,8 @@ class Graph:
                 parent_ranks, value[1])
 
             if fir != sec:
-                edge += 1  # increase edge
+                edge += 1  
 
-                # append and union
                 answer.append(value)
                 self.union(ranks, parent_ranks, fir, sec)
 
