@@ -25,7 +25,6 @@ def dijkstra(graph, start, end):
     return shortest_distance
 
 #this algorithm needs the start, end, and weight, but you can remove the weight as well
-#I will leave my example here, how I use this algorithm to solve the shortest path problem
 # V is vertex, u is edges and W IS WEIGHT.
 
 cities, origin, destiny = map(int, input().split())
