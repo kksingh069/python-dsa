@@ -1,6 +1,6 @@
 
 def sum_of_digits(n):
-    n = int(input()) # here n is the number
+    n = int(input()) 
     if n % 9 != 0:
         print(n % 9)
     else:
