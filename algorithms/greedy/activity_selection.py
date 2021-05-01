@@ -1,5 +1,4 @@
 #Prints a maximum set of activities that can be done by a 
-#single person, one at a time
 
 def print_max_activities(s, f):
     n = len(f)
