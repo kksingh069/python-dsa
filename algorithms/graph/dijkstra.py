@@ -32,7 +32,6 @@ class Graph:
                         my_min = self.distances[_]
                         min_index = _
 
-            # check the flag for visited
             self.visited[min_index] = 1
 
             # # iterate and update if needed
