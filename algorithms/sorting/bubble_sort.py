@@ -1,5 +1,4 @@
 """
-Best time scenario is when array is already sorted - O(n)
 """
 
 def bubble_sort(array):
