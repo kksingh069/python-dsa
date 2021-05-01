@@ -1,9 +1,5 @@
 class Z_Algorithm():
-    """
-        return all occurences of string s in text, returns its indexes starting from zero
-        delimeter should be charachter which will not occur neither is S nor in text
-        by default its '$'
-    """
+   
     @staticmethod
     def find_occurrences(s:str , text:str , delimeter = '$'):
         return Z_Algorithm.z_function(s + delimeter + text , len(s))
