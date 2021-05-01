@@ -16,7 +16,6 @@ def counting_sort(arr):
     min_value = min(arr)
     max_value = max(arr)
 
-    # Count number appearances in the array
     counting_arr = [0]*(max_value-min_value+1)
     for num in arr:
         counting_arr[num-min_value] += 1
