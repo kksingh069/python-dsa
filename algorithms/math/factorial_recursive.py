@@ -1,4 +1,3 @@
-#Calculate factorial of a given number using recursive method.
 
 def factorial(number):
 
