@@ -24,7 +24,6 @@ def dijkstra(graph, start, end):
         non_visited_nodes.pop(shortest_extracted_node)
     return shortest_distance
 
-#in this case, I made a graph within the code, but I didn't put here, you can create your graph the way you like.
 #this algorithm needs the start, end, and weight, but you can remove the weight as well
 #I will leave my example here, how I use this algorithm to solve the shortest path problem
 # V is vertex, u is edges and W IS WEIGHT.
