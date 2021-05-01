@@ -2,7 +2,6 @@ def is_perfect_square(num):
     """
 
 
-    :rtype: bool
     """
     i = 0
     while i * i < num:
