@@ -1,6 +1,5 @@
 """
 Description:
-Sieve of Eratosthenes is a very fast method (loglog(n)) of finding primes upto a given number.
 """
 
 
