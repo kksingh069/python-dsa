@@ -7,7 +7,6 @@
 def print_max_activities(s, f):
     n = len(f)
 
-    # the first activity is always selected
     i = 0
     print(i, end=' ')
 
