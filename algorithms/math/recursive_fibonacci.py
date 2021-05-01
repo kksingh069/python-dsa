@@ -1,6 +1,5 @@
 """
     Recursivly compute the Fibonacci sequence using two different methods
-    rec_fib(n) requires O(Fibo(n)) operations, whereas binary_rec_fib(n) requires less than O(n) 
 """
 
 def rec_fib(n):
