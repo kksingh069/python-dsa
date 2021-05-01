@@ -21,7 +21,6 @@ class Graph:
         fir, sec = self.search(parent_ranks, fir), self.search(
             parent_ranks, sec)
 
-        # 3 steps. ranks lower, higher, same
 
         if (ranks[fir] > ranks[sec]):
             parent_ranks[sec] = fir
