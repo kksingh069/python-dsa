@@ -12,7 +12,6 @@ default = 10
 def verify_base(x):
     """
     Verify if already is an integer
-    If is not verify if is in the bases
     """
     try:
         return int(x)
@@ -28,8 +27,6 @@ def decimal_value(x):
     ord(x) is a function that return the number in asc2 table
     we use ord to get the number of an caracter
     """
-    # TODO verify if in the base exist the character like:
-    # 'z' doesnt exisist in decimal values
     if(x >= '0' and x <= '9'):
         return int(x)
     elif(x >= 'a' and x <= 'z'):
