@@ -2,7 +2,6 @@
 High Level Description:
 backwards and finding a slot. This forms a sorted array.
 Time Complexity:
-O(n/2) time on average, meaning that the total complexity is O(n^2)
 """
 
 def insertion_sort(lst):
