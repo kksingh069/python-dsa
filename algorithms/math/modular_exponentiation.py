@@ -1,6 +1,5 @@
 # to compute modular power 
   
-# Iterative Function to calculate 
 # (x^y)%p in O(log y)  
 
 def power(x, y, p) : 
