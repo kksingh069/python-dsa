@@ -2,7 +2,6 @@ def is_perfect_square(num):
     """
 
 
-    :type num: int
     :rtype: bool
     """
     i = 0
