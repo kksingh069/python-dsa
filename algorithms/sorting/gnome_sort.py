@@ -5,7 +5,6 @@
 def gnome_sort(arr):
     """
     Examples:
-        [0, 2, 2, 3, 5]
 
         []
         [-45, -5, -2]
@@ -23,7 +22,6 @@ def gnome_sort(arr):
         elif arr[ind] >= arr[ind - 1]:
             ind += 1
         else:
-            # swap
             temp = arr[ind - 1]
             arr[ind - 1] = arr[ind]
             arr[ind] = temp
