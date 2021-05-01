@@ -20,10 +20,8 @@ class Graph:
                 self.DFSUtil(i, visited) 
   
   
-    # The function to do DFS traversal. It uses 
-    # recursive DFSUtil() 
     def DFS(self): 
-        V = len(self.graph)  #total vertices 
+        V = len(self.graph)  
   
         # Mark all the vertices as not visited 
         visited =[False]*(V) 
