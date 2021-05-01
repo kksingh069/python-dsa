@@ -1,12 +1,8 @@
-# Python program to print DFS traversal for complete graph
 from __future__ import print_function
 from collections import defaultdict 
   
-# This class represents a directed graph using adjacency 
-# list representation 
 class Graph: 
   
-    # Constructor 
     def __init__(self): 
   
         # default dictionary to store graph 
