@@ -1,7 +1,5 @@
 """
 
-Time complexity:
-
 """
 
 def counting_sort(arr):
