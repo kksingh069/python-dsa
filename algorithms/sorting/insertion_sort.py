@@ -1,5 +1,4 @@
 """
-Time Complexity:
 """
 
 def insertion_sort(lst):
