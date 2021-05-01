@@ -5,14 +5,11 @@ class Graph:
   
     def __init__(self): 
   
-        # default dictionary to store graph 
         self.graph = defaultdict(list) 
   
-    # function to add an edge to graph 
     def addEdge(self,u,v): 
         self.graph[u].append(v) 
   
-    # A function used by DFS 
     def DFSUtil(self, v, visited): 
   
         # Mark the current node as visited and print it 
