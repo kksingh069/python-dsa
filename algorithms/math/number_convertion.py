@@ -42,11 +42,7 @@ def to_special_caracter(x):
 
 
 def convert(n, from_base, to_base):
-    """
 
-    ~> "2"
-
-    """
     n = str(n)
     from_base = verify_base(from_base)
     to_base = verify_base(to_base)
