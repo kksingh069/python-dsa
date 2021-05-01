@@ -8,10 +8,8 @@ class Graph:
     def __init__(self, vertices):
         self.vertices = vertices
 
-        # columns for start going to rows.
         self.graph = [[0] * self.vertices for _ in r(self.vertices)]
-        self.visited = [0] * self.vertices  # to control visited vertices
-        # for our distances to minimaze them.
+        self.visited = [0] * self.vertices  
         self.distances = [max_weight] * self.vertices
 
     # Add edge to graph start --> end point with specific weight!
