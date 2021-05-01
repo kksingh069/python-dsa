@@ -1,6 +1,5 @@
 # to compute modular power 
   
-# (x^y)%p in O(log y)  
 
 def power(x, y, p) : 
     res = 1     # Initialize result 
