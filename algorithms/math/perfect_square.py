@@ -1,7 +1,6 @@
 def is_perfect_square(num):
     """
 
-    Note: Do not use any built-in library function such as `sqrt`.
 
     :type num: int
     :rtype: bool
