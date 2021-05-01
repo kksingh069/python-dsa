@@ -5,7 +5,6 @@
 def power(x, y, p) : 
     res = 1     # Initialize result 
   
-    # than or equal to p 
     x = x % p  
   
     while (y > 0) : 
