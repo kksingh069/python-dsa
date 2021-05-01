@@ -1,4 +1,3 @@
-
 def print_max_activities(s, f):
     n = len(f)
 
