@@ -1,5 +1,4 @@
 """
-High Level Description:
 Time Complexity:
 """
 
