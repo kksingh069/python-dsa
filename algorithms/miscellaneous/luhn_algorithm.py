@@ -2,8 +2,6 @@ def check_luhn(card_number):
     """
     Luhn algorithm or Luhn formula is a simple checksum formula
     used to validate a variety of identification numbers, such as
-    credit card numbers, IMEI numbers, National Provider Identifier numbers
-    in some of the countries.
 
     It takes a number as an input
     (Assuming cardnumber as a string)
