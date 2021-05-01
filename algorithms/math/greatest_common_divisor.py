@@ -1,7 +1,6 @@
 """
 High Level Description:
 
-Time Complexity:
 O(log(n))
 """
 def gcd(x, y):
