@@ -24,7 +24,6 @@ def dijkstra(graph, start, end):
         non_visited_nodes.pop(shortest_extracted_node)
     return shortest_distance
 
-#this algorithm needs the start, end, and weight, but you can remove the weight as well
 
 cities, origin, destiny = map(int, input().split())
 graph = {i:[] for i in range(1, cities+1)}
