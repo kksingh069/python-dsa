@@ -20,7 +20,6 @@ def heap_sort(nums):
     n = len(nums)
 
     # Create a Max Heap from the list
-    # The 2nd argument of range means we stop at the element before -1 i.e.
     # the first element of the list.
     # of i by 1
     for i in range(n, -1, -1):
