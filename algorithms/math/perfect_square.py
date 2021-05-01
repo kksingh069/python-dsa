@@ -9,6 +9,5 @@ def is_perfect_square(num):
         return False
         
 
-# Test
 print(is_perfect_square(16))
 print(is_perfect_square(14))
