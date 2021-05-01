@@ -1,5 +1,4 @@
 '''
-High Level Description:
 '''
 
 def heapify(nums, heap_size, root_index):
