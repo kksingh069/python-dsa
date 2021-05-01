@@ -23,7 +23,6 @@ class Graph:
     def DFS(self): 
         V = len(self.graph)  
   
-        # Mark all the vertices as not visited 
         visited =[False]*(V) 
   
         # Call the recursive helper function to print 
