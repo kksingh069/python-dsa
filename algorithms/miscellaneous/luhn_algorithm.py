@@ -1,6 +1,5 @@
 def check_luhn(card_number):
     """
-    Luhn algorithm or Luhn formula is a simple checksum formula
 
     and returns true or false
 
