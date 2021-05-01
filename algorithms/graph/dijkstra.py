@@ -24,7 +24,6 @@ class Graph:
 
         for vert in r(self.vertices):
 
-            # we need to check for minimum but not visited!!
             my_min, min_index = max_weight, 0
             for _ in r(self.vertices):
                 if not self.visited[_]:
