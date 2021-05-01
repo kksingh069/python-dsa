@@ -1,6 +1,5 @@
 import codecs
 import random
-
 MAX_LETTERS = 2000
 
 def readFile(f, mp, k):
