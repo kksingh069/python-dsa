@@ -1,7 +1,5 @@
 """
 	This simple code is to check if a given number is a poer of two or not.
-	Method:
-		if a number is a power of two, then its binary representation is (2^k).
 		ex: 4 --> 2^2 --> 100 --> k = 2
 			8 --> 2^3 --> 1000 --> k = 3
 			16--> 2^4 --> 10000 --> k = 4
