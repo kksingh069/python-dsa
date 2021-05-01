@@ -3,9 +3,7 @@ r = range
 
 
 class Graph:
-    # Class initializer
     def __init__(self, vertices):
-        # num of vertices and our starting graph
 
         self.vertices = vertices
         # Values will be [start_point, end_point, weight]
