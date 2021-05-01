@@ -1,5 +1,3 @@
-
-
 def heapify(nums, heap_size, root_index):
     largest = root_index
     left_child = (2 * root_index) + 1
@@ -19,7 +17,6 @@ def heapify(nums, heap_size, root_index):
 def heap_sort(nums):
     n = len(nums)
 
-    # of i by 1
     for i in range(n, -1, -1):
         heapify(nums, n, i)
 
