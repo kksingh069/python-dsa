@@ -21,7 +21,6 @@ def counting_sort(arr):
     for num in arr:
         counting_arr[num-min_value] += 1
     
-    # Rearrange sequence in the array
     index = 0
     for i, count in enumerate(counting_arr):
         for _ in range(count):
