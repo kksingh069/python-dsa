@@ -52,7 +52,6 @@ def convert(n, from_base, to_base):
     n -> the number
     from_base -> base of n |
     to_base -> base of the result |
-    Why the n and the return is an string?
     """
     n = str(n)
     from_base = verify_base(from_base)
