@@ -1,5 +1,4 @@
 def check_luhn(card_number):
-   
     card_len = len(card_number)
 
     check_sum = 0
