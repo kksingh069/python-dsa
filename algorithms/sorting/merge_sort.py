@@ -2,12 +2,12 @@
 
 def merge_sort(arr):
     if len(arr) >1:
-        mid = len(arr)//2 #Finding the mid of the array
-        L = arr[:mid] # Dividing the array elements
-        R = arr[mid:] # into 2 halves
+        mid = len(arr)//2 
+        L = arr[:mid] 
+        R = arr[mid:] 
 
-        merge_sort(L) # Sorting the first half
-        merge_sort(R) # Sorting the second half
+        merge_sort(L) 
+        merge_sort(R) 
 
         i = j = k = 0
 
