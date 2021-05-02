@@ -1,4 +1,3 @@
-
 def majority(arr):
     maj_index = 0
     count = 1
