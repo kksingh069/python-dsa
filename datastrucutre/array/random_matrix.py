@@ -10,7 +10,7 @@ def random_matrix(n):
 
     shuffle(m)
 
-    m = list(map(list, zip(*m)))  # Transpose the matrix
+    m = list(map(list, zip(*m)))  
     shuffle(m)
 
     return m
