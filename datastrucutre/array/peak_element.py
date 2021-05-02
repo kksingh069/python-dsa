@@ -1,4 +1,3 @@
-# A peak element is an element such that both of its neighbours are smaller than it
 
 
 def peak(arr, low, high):
