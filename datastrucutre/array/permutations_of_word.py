@@ -11,7 +11,6 @@ def permutation(lst):
             l.append([m] + p)
     return l
 
-
 data = list('hello world')
 for p in permutation(data):
     print(p)
