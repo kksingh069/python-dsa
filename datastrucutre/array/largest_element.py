@@ -1,5 +1,4 @@
 import sys
-
 def largest(arr):
     l = -sys.maxsize
     for i in arr:
