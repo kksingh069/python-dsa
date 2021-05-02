@@ -11,4 +11,5 @@ class Solution:
             if(x!=[]):
                 l.append(x)
             i+=1
+            
         return(l)
