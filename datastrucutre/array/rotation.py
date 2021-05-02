@@ -3,7 +3,6 @@ def gcd(a, b):
         return a
     return gcd(b, a%b)
 
-
 def rotate(arr, d):
     n = len(arr)
     g = gcd(n, d)
