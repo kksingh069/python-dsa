@@ -1,5 +1,3 @@
-# The array is sorted in decreasing order
-
 def count(arr):
     start = 0
     end = len(arr) - 1
