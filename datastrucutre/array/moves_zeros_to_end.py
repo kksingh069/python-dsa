@@ -1,4 +1,3 @@
-# Move all zeros in an array to the end
 
 
 def move(arr):
