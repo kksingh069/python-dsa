@@ -6,7 +6,6 @@
 # If there are odd number of negative numbers and no zeros,
 # the result is simply the product of all
 
-# If there is a zero and all other are positive, then the result is zero
 
 # If there are only positive numbers, the the result is
 # the smallest positive number
