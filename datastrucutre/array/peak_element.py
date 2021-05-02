@@ -1,5 +1,3 @@
-
-
 def peak(arr, low, high):
     n = len(arr)
 
