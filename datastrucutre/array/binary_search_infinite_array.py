@@ -10,7 +10,6 @@ def binary_search(arr, start, end, val):
 
     return -1
 
-
 def search(arr, val):
     if len(arr) == 1:
         if arr[0] == val:
