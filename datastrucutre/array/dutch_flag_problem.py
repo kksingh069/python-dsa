@@ -1,4 +1,3 @@
-# Input - [1,2,0,1,2,1,0,1,2,1,0]
 
 def dutch(arr):
     low = 0
