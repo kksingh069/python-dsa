@@ -1,5 +1,3 @@
-# Find duplicate in an array of integers given that the integers are in random order and 
-# not necessarily each integer i is 0 <= i <= N where N = length of array
 
 # Solution - use tortoise and hare algorithm. The tortoise pointer moves slower while the hare pointer
 # moves faster
