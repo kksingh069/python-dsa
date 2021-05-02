@@ -10,7 +10,6 @@ def check(arr):
             return False
     return True
 
-
 arr = [20,10,15,5,100,200, 201]
 
 print(check(arr))
