@@ -13,4 +13,5 @@ def max_product(arr):
                 a = arr[i]
                 b = arr[j]
                 maxprod = a * b
+                
     return maxprod
