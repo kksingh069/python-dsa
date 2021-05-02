@@ -2,7 +2,6 @@
 
 # negative value
 
-# the result is simply the product of all
 
 
 
