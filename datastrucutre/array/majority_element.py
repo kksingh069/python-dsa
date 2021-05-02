@@ -1,6 +1,5 @@
 # The only prerequisite condition of this algorithm is that the array
 # definitely contains a majority element, otherwise it will just return
-# the last element
 
 def majority(arr):
     maj_index = 0
