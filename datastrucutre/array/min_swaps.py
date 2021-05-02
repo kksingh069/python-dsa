@@ -17,7 +17,7 @@ def min_swaps(arr, k):
             break
 
         if arr[i] > k:
-            bad -= 1  # because we have moved the bad element out of the window
+            bad -= 1  
         
         if arr[j] > k:
             bad += 1
