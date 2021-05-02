@@ -15,5 +15,6 @@ def intersection(arr1, arr2):
 arr1 = [1,2,3,4,5,6,7,8]
 arr2 = [2,4,6,8]
 
+
 print(intersection(arr1, arr2))
 
