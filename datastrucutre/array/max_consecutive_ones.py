@@ -8,4 +8,5 @@ def max_ones(arr):
             max = count
         if i == 0:
             count = 0
+            
     return max
