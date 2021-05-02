@@ -1,5 +1,4 @@
-# Find if a given sum exists in an array
-# Reference - https://www.geeksforgeeks.org/find-subarray-with-given-sum/
+
 
 def find_sum(arr, s):
     curr_sum = arr[0]
