@@ -4,7 +4,6 @@ Quick sort average case is O(n log n)
     each level takes O(n) but splitting the data is O(log n)
     O(n) * O(log n) = O(n log n)
 Worse case is O(log n2)
-    if pivot is smallest value, each level is O(n) and splitting the data is O(n)
     O(n) * O(n) = O(n2)
 """
 
