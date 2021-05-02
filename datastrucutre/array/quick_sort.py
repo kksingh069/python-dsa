@@ -1,5 +1,4 @@
 """
-Quicksort Running Time:
 """
 
 def quicksort(array):
