@@ -1,7 +1,6 @@
 # Use these facts - 
 
 # If there are even number of negative numbers and no zeros,
-# then the min product is the product of all except the max
 # negative value
 
 # If there are odd number of negative numbers and no zeros,
