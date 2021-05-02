@@ -1,4 +1,3 @@
-
 def find_smallest(arr):
     smallest = arr[0]
     smallest_index = 0
