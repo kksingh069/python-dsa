@@ -7,7 +7,6 @@ def bogo_sort(a):
     while (is_sorted(a) == False):
         shuffle(a)
 
-# To check if array is sorted or not
 
 
 def is_sorted(a):
