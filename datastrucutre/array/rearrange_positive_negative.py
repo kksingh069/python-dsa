@@ -1,4 +1,3 @@
-# Rearragne positive and negative numbers in an array such that they appear
 # alternately. If there are more numbers of any one kind, put them at the end
 
 def rearrange(arr):
