@@ -2,7 +2,6 @@ def square(arr):
     n = len(arr)
     j = 0
     
-    # Counting the number of negative elements 
     while j < n and arr[j] < 0:
         j += 1
     
