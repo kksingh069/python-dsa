@@ -1,5 +1,3 @@
-
-
 def move(arr):
     count = 0
     for a in arr:
