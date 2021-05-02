@@ -1,6 +1,5 @@
 # Use these facts - 
 
-# negative value
 
 
 
