@@ -2,7 +2,6 @@
 
                
               
-The output of print this tree vertically will be:
 4
 2
 1 5 6
