@@ -1,4 +1,3 @@
-# If space is a constraint, then sort the array first and use two pointer
 
 
 def find_hash(arr, sum):
