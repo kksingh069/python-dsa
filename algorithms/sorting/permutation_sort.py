@@ -1,7 +1,5 @@
 import random
 
-
-
 def bogo_sort(a):
     n = len(a)
     while (is_sorted(a) == False):
