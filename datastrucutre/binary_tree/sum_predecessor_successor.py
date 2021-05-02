@@ -1,8 +1,3 @@
-# Convert a binary tree such that each node is the sum of 
-# its inorder predecessor and successor
-
-
-
 class Node:
     
     def __init__(self, val):
