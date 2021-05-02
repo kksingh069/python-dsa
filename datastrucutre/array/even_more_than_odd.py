@@ -1,5 +1,3 @@
-# Rearrange an array such that numbers at even indexes are greater than numbers 
-# at odd indexes
 
 def rearrange(arr):
     for i in range(1, len(arr)):
