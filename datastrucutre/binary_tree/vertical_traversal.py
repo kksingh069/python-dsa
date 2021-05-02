@@ -1,12 +1,5 @@
 """
 
-           1
-        /    \ 
-       2      3
-      / \   /   \
-     4   5  6   7
-               /  \ 
-              8   9 
                
               
 The output of print this tree vertically will be:
