@@ -10,7 +10,6 @@ The output of print this tree vertically will be:
 7
 9
 
-source - https://www.geeksforgeeks.org/print-binary-tree-vertical-order-set-2/
 """
 
 class Node:
