@@ -8,4 +8,5 @@ def find(arr, target):
             j -= 1
         else:
             i += 1
+            
     return []
