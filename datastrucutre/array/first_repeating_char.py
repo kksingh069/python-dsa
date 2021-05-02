@@ -3,8 +3,6 @@
 # If present, then it is the recurrent char
 
 # Without extra space idea -
-# The idea is to use an integer variable and uses bits in its binary representation to store whether a 
-# character is present or not. 
 
 def first_recurrence(s):
     checker = 0 
