@@ -1,5 +1,4 @@
 """
-Print the top view of a binary tree
 
 """
 
