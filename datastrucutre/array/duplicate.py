@@ -1,6 +1,5 @@
 
 
-# Note: this array will always contain a duplicate number due to the pigeonhole principle. You are trying to fit
 # N different numbers in an array of size N - 1 so one number will be repeated 
 
 def duplicate(arr):
