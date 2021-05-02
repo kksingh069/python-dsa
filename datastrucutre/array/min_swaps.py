@@ -1,7 +1,5 @@
 
 def min_swaps(arr, k):
-    # First find out how many elements are there which are less than or 
-    # equal to k
     count = 0
     for i in arr:
         if i <= k:
