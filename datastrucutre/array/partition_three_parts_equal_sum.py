@@ -11,6 +11,5 @@ def partition(arr):
         if acc == targets[-1]:
             targets.pop()
         if not targets:
-            return True
-    
+            return True    
     return False
