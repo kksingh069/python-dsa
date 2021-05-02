@@ -1,6 +1,5 @@
 """
 Quicksort Running Time:
-Quick sort average case is O(n log n
 Worse case is O(log n2)
     O(n) * O(n) = O(n2)
 """
