@@ -5,7 +5,6 @@ Worse case is O(log n2)
     O(n) * O(n) = O(n2)
 """
 
-# quicksort function
 def quicksort(array):
     if len(array) < 2:
         return array
@@ -16,5 +15,5 @@ def quicksort(array):
         return quicksort(less) + [pivot] + quicksort(greater)
 
 array = [100, 5, 72, 41, 80, 1, 99, 36, 27, 78]
-print(quicksort(array)) # [1, 5, 27, 36, 41, 72, 78, 80, 99, 100]
+print(quicksort(array)) 
 
