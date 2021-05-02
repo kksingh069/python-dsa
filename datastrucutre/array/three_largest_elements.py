@@ -1,5 +1,4 @@
 import sys
-
 def three_largest(arr):
     first = second = third = -sys.maxsize
     for i in arr:
