@@ -1,5 +1,4 @@
 # If space is a constraint, then sort the array first and use two pointer
-# solution. In that case, the time complexity will be O(n^2 + nlogn)
 
 
 def find_hash(arr, sum):
