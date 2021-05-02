@@ -1,4 +1,3 @@
-
 import sys
 
 def product(arr):
