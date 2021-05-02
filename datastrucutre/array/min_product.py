@@ -1,6 +1,5 @@
 # Use these facts - 
 
-# If there are even number of negative numbers and no zeros,
 # negative value
 
 # the result is simply the product of all
