@@ -5,7 +5,6 @@
 # Without extra space idea -
 # The idea is to use an integer variable and uses bits in its binary representation to store whether a 
 # character is present or not. 
-# Typically an integer has at-least 32 bits and we need to store presence/absence of only 26 characters.
 
 def first_recurrence(s):
     checker = 0 
