@@ -1,7 +1,6 @@
 """
 Quicksort Running Time:
 Worse case is O(log n2)
-    O(n) * O(n) = O(n2)
 """
 
 def quicksort(array):
