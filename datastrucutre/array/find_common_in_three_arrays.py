@@ -1,4 +1,3 @@
-
 def find_common(arr1, arr2, arr3):
     i, j, k     = 0, 0, 0
 
