@@ -1,4 +1,3 @@
-
 def min_swaps(arr, k):
     count = 0
     for i in arr:
@@ -6,8 +5,6 @@ def min_swaps(arr, k):
             count += 1
 
     # This count defines a window - inside this window all our elements should 
-    # be placed
-    # Find the count of bad elements - elements which are more than k and that will be
     # our starting answer as we will have to swap them out
     bad = 0
     for i in range(0, count):
