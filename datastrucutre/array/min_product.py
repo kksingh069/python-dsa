@@ -7,7 +7,6 @@
 # the result is simply the product of all
 
 
-# the smallest positive number
 
 
 def find(arr):
