@@ -1,4 +1,3 @@
-# The only prerequisite condition of this algorithm is that the array
 
 def majority(arr):
     maj_index = 0
