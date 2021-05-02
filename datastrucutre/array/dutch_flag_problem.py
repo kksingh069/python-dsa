@@ -1,4 +1,3 @@
-# before 1s which in turn come before all 2s
 # Input - [1,2,0,1,2,1,0,1,2,1,0]
 # Output - [0,0,0,1,1,1,1,1,2,2,2]
 
