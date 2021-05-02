@@ -7,7 +7,7 @@ def rearrange(arr):
             i += 1  # maintaining index of the last negative number
             arr[j], arr[i] = arr[i], arr[j]
 
-    pos = i + 1  # index of first positive number
+    pos = i + 1 
     neg = 0  
 
     while pos < len(arr) and neg < pos and arr[neg] < 0:
