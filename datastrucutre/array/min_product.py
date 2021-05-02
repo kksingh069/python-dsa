@@ -3,7 +3,6 @@
 # If there are even number of negative numbers and no zeros,
 # negative value
 
-# If there are odd number of negative numbers and no zeros,
 # the result is simply the product of all
 
 
