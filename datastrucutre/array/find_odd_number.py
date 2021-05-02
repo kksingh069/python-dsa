@@ -7,6 +7,5 @@ def find_odd_number(nums):
         s ^= n 
     return s 
 
-
 a = [0, 0, 1, 1, 2, 2, 6, 6, 9, 10, 10] 
 print(find_odd_number(a))
