@@ -1,6 +1,5 @@
 def random_matrix(n):
     """ Generate random n x n matrix without repeated entries in rows or columns.
-    The entries are integers between 1 and n.
     """
     from random import shuffle
 
