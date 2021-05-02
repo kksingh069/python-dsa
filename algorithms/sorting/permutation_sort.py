@@ -16,7 +16,6 @@ def is_sorted(a):
             return False
     return True
 
-# To generate permuatation of the array
 
 
 def shuffle(a):
