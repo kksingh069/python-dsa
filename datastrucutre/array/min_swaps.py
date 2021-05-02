@@ -1,4 +1,3 @@
-# Minimum swaps required to bring all elements less than or equal to k together
 
 def min_swaps(arr, k):
     # First find out how many elements are there which are less than or 
