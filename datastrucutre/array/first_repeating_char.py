@@ -1,6 +1,5 @@
 # Find the first character in a string without using extra space
 # With extra space its simple. Just check for the element in a hash map
-# If present, then it is the recurrent char
 
 # Without extra space idea -
 
