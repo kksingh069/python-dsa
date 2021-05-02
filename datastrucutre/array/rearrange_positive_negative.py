@@ -1,4 +1,3 @@
-
 def rearrange(arr):
     i = -1
 
