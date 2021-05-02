@@ -1,6 +1,3 @@
-# Find the first character in a string without using extra space
-
-
 def first_recurrence(s):
     checker = 0 
     pos = 0
