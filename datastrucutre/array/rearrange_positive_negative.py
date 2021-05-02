@@ -4,7 +4,7 @@ def rearrange(arr):
 
     for j in range(len(arr)):
         if arr[j] < 0:
-            i += 1  # maintaining index of the last negative number
+            i += 1  
             arr[j], arr[i] = arr[i], arr[j]
 
     pos = i + 1 
