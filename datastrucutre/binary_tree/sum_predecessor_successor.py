@@ -1,8 +1,7 @@
 # Convert a binary tree such that each node is the sum of 
 # its inorder predecessor and successor
 
-# Store the inorder traversal in an array. Now while traversing
-# replace each node with the values arr[i-1] + arr[i+1] as these
+
 
 class Node:
     
