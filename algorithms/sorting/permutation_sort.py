@@ -25,7 +25,6 @@ def shuffle(a):
         a[i], a[r] = a[r], a[i]
 
 
-# Driver code to test above
 a = [3, 2, 4, 1, 0, 5]
 bogo_sort(a)
 print("Sorted array :")
