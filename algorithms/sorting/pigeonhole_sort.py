@@ -1,4 +1,3 @@
-#It requires O(n + Range) time where n is number of elements in input array and ‘Range’ is number of possible values in array.
 
 def pigeonhole_sort(a): 
     my_min = min(a) 
