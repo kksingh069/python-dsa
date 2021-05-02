@@ -1,6 +1,3 @@
-
-
-
 def duplicate(arr):
     tortoise = arr[0]
     hare = arr[0]
