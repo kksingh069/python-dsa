@@ -1,5 +1,3 @@
-
-
 def find_sum(arr, s):
     curr_sum = arr[0]
     start = 0
