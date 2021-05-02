@@ -1,4 +1,3 @@
-# alternately. If there are more numbers of any one kind, put them at the end
 
 def rearrange(arr):
     i = -1
