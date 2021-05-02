@@ -1,5 +1,4 @@
 import sys
-
 def max_sum(arr):
     first = second = third = -sys.maxsize
 
