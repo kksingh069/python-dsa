@@ -1,4 +1,3 @@
-
 def rearrange(arr):
     for i in range(1, len(arr)):
         if i % 2 == 0:
