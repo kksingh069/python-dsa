@@ -1,4 +1,3 @@
-# Q - Find the max product of three elements of an array
 
 import sys
 
