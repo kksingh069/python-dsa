@@ -7,7 +7,6 @@
 # the result is simply the product of all
 
 
-# If there are only positive numbers, the the result is
 # the smallest positive number
 
 
