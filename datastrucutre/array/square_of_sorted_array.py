@@ -5,7 +5,7 @@ def square(arr):
     while j < n and arr[j] < 0:
         j += 1
     
-    i = j - 1 # index of last negative element
+    i = j - 1 
     ans = []
 
     while 0 <= i and j < n:
