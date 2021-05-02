@@ -1,6 +1,5 @@
 
 
-# N different numbers in an array of size N - 1 so one number will be repeated 
 
 def duplicate(arr):
     tortoise = arr[0]
