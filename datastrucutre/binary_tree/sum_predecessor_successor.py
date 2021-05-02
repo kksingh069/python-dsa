@@ -3,7 +3,6 @@
 
 # Store the inorder traversal in an array. Now while traversing
 # replace each node with the values arr[i-1] + arr[i+1] as these
-# are the inorder predecessor and successor
 
 class Node:
     
