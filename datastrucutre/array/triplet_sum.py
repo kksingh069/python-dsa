@@ -1,5 +1,3 @@
-
-
 def find_hash(arr, sum):
     
     for i in range(0, len(arr) - 1):
