@@ -1,7 +1,6 @@
 """
 Print the top view of a binary tree
 
-Almost like vertical traversal
 """
 
 class Node:
