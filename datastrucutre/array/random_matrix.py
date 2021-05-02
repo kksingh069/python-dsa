@@ -6,7 +6,6 @@ def random_matrix(n):
     a = list(range(n + 1))
     shuffle(a)
 
-    # Use slicing to left rotate
     m = [a[i:] + a[:i] for i in range(n + 1)]
 
     # Shuffle rows in matrix
