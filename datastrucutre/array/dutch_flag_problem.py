@@ -1,4 +1,3 @@
-
 def dutch(arr):
     low = 0
     mid = 0
