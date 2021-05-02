@@ -1,7 +1,3 @@
-# Find the equilibrium index of an array. An equilibrium index is such that
-# the sum of elements to the left of it is equal to sum of elements to the right
-# of it
-
 def find_equi(arr):
     total_sum = sum(arr)
 
