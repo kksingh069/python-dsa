@@ -7,7 +7,6 @@ class Node:
         self.right = None
 
 
-# Returns depth of leftmost leaf
 def find_depth(root):
     d = 0 
     while root:
