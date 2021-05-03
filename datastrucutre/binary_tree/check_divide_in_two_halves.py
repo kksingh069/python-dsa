@@ -1,5 +1,4 @@
 """
-the tree in two equal halves
 
 """
 
