@@ -1,4 +1,3 @@
-# Convert a tree that is a left right representation to a 
 # down right representation
 
 class Node:
