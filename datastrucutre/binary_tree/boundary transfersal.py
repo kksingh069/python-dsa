@@ -29,8 +29,7 @@ def print_left_boundary(root):
 
 
 def print_right_boundary(root):
-    """
-    """
+   
     if root:
         if root.right:
             print_right_boundary(root.right)
