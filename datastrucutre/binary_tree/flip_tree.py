@@ -4,7 +4,6 @@
 # Flipping subtree algorithm
 # 2. root->left->right = root
 # 3. root->left = NULL
-# 4. root->right = NULL
 
 
 class Node:
