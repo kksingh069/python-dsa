@@ -1,4 +1,3 @@
-# Find the sum of all left leaves of a binary tree
 
 
 class Node:
