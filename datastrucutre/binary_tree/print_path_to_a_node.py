@@ -21,7 +21,6 @@ def has_path(root, stack, x):
     stack.pop()
     return False
 
-
 def print_path(root, x):
     arr = []
 
