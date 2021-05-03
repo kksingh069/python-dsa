@@ -8,8 +8,6 @@ class Node:
 
 
 def continuous(root):
-    # 1. Root is none
-
     if root is None:
         return True
     
