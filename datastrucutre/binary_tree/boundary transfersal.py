@@ -30,7 +30,6 @@ def print_left_boundary(root):
 
 def print_right_boundary(root):
     """
-    top-to-bottom traversal
     """
     if root:
         if root.right:
