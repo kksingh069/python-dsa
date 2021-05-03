@@ -2,9 +2,7 @@
 Print right view of a binary tree
 
 The idea behind using max_level[0] is that - 
-1. Its value when changes will be reflected in every recursion call
-2. We are visiting right side first. So this acts as a check that that level was done
-"""
+1. Its value when changes will be reflected in every recursion call"""
 
 class Node:
 
