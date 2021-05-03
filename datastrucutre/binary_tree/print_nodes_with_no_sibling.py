@@ -5,7 +5,6 @@ class Node:
         self.left = None
         self.right = None
 
-
 def no_siblings(root):
     if root is None:
         return
