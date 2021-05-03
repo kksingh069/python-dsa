@@ -1,7 +1,6 @@
 """
 Print right view of a binary tree
 
-The idea behind using max_level[0] is that - 
 """
 
 class Node:
