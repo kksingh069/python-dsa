@@ -1,5 +1,4 @@
 """
-Given a path in an array form, check if this path leads to a leaf node
 
 """
 class Node:
