@@ -10,7 +10,6 @@ class Node:
 def continuous(root):
     # Can be continuous if 
     # 1. Root is none
-    # 3. If left ST is none, check for 
     # 4. If right ST is none, check for left
     # 5. Else check for everything
 
