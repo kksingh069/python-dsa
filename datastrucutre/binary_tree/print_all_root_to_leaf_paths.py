@@ -1,6 +1,5 @@
 # Traverse the tree in preorder fashion
 # append value in stack
-# if root.left and root.right is None, then print all stack values
 # traverse left
 # traverse right
 
