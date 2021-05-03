@@ -1,6 +1,5 @@
 """
 
-Condition for being cousin - 
 1. Level is same
 2. They are not siblings
 
