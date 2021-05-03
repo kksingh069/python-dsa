@@ -1,5 +1,4 @@
 """
-Check if two nodes are cousin or not
 
 Condition for being cousin - 
 1. Level is same
