@@ -1,5 +1,4 @@
 """
-A full binary tree is a tree which has either 0 children or 2 children
 """
 
 class Node:
