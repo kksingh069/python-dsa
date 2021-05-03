@@ -1,4 +1,3 @@
-# all the leaves are at the same level
 
 class Node:
 
