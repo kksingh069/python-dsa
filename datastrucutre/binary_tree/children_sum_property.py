@@ -1,4 +1,3 @@
-# Check whether a tree statisfies children sum property
 
 class Node:
 
