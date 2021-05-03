@@ -1,4 +1,3 @@
-# Diameter of a binary tree is the longest path between two leaf nodes of a binary tree
 
 class Node:
 
