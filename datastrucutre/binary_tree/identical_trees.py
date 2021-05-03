@@ -1,5 +1,3 @@
-# Check if two trees are identical or not
-
 class Node:
 
     def __init__(self, val):
