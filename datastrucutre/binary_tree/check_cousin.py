@@ -1,7 +1,6 @@
 """
 
 1. Level is same
-2. They are not siblings
 
 """
 
