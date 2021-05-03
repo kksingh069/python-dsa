@@ -6,7 +6,6 @@ class Node:
         self.right = None
         self.col = None
 
-
 def print_vertical_util(root, col, d):
     if not root:
         return 
