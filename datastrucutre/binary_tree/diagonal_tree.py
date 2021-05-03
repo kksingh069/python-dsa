@@ -17,7 +17,6 @@ def diagonal_print_util(root, d, diagonal_map):
     except:
         diagonal_map[d] = [root.val]
 
-    # Increase vertical distance if left child
     diagonal_print_util(root.left, d+1, diagonal_map)
 
     # Vertical distance remains same for the right child
