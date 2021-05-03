@@ -2,7 +2,6 @@
 Check if removing an edge of a binary tree can divide 
 the tree in two equal halves
 
-Solution - Count the number of nodes, say n. Then traverse the tree
 """
 
 class Node:
