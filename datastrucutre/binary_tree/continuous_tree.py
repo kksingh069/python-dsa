@@ -1,4 +1,3 @@
-# A continuous tree is such that the absolute difference between two
 # adjacent nodes is 1
 
 class Node:
