@@ -1,5 +1,4 @@
 """
-Check if a given binary tree is perfect or not
 """
 
 class Node:
