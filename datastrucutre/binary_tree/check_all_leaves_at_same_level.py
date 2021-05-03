@@ -1,4 +1,3 @@
-# check if all the leaves of a tree are at the same level
 
 class Node:
 
