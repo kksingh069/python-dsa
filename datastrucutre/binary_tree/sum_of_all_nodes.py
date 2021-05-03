@@ -1,5 +1,3 @@
-# Find the sum of all nodes of a binary tree
-
 class Node:
 
     def __init__(self, val):
