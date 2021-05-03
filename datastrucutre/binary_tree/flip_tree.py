@@ -1,6 +1,5 @@
 # Flip a tree such like here
 
-# 3. root->left = NULL
 
 
 class Node:
