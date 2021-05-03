@@ -1,6 +1,3 @@
-# Find the max value in only the left nodes of the tree
-
-
 class Node:
 
     def __init__(self, val):
