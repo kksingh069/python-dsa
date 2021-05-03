@@ -1,4 +1,3 @@
-# In expression tree, the integer values will be at the leaf nodes
 # The operands will be all the other internal nodes
 
 class Node:
