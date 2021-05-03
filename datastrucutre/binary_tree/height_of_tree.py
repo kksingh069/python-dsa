@@ -1,7 +1,6 @@
 """
 Find the height of a binary tree
 
-Height - (max of left height and right height) + 1
 """
 
 class Node:
