@@ -1,5 +1,3 @@
-# Given a tree that contains only 0s and 1s, convert it into  
-
 class Node:
 
     def __init__(self, val):
