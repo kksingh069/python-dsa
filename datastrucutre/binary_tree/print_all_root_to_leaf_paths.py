@@ -3,7 +3,6 @@
 # if root.left and root.right is None, then print all stack values
 # traverse left
 # traverse right
-# pop from stack
 
 class Node:
 
