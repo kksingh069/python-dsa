@@ -1,8 +1,4 @@
-"""
 
-1. Level is same
-
-"""
 
 class Node:
 
