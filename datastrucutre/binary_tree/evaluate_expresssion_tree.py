@@ -1,4 +1,3 @@
-# The operands will be all the other internal nodes
 
 class Node:
 
