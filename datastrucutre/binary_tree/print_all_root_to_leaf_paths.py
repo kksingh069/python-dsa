@@ -1,4 +1,3 @@
-# Traverse the tree in preorder fashion
 # append value in stack
 # traverse left
 # traverse right
