@@ -1,5 +1,3 @@
-# down right representation
-
 class Node:
 
     def __init__(self, val):
