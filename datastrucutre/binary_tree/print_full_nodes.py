@@ -1,5 +1,4 @@
 # Given a tree, print all the full nodes of it
-# A full node is such that both its children are present
 
 class Node:
 
