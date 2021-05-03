@@ -5,7 +5,6 @@ class Node:
         self.left = None
         self.right = None
 
-
 def print_spiral(root):
 
     s1 = []
