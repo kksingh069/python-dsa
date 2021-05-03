@@ -1,4 +1,3 @@
-# Print tree in a diagonal form
 
 
 class Node:
