@@ -1,6 +1,5 @@
 # Print tree in a diagonal form
 
-# in a dict and then proceed
 
 class Node:
 
