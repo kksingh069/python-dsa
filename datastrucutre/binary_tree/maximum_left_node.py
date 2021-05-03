@@ -1,6 +1,5 @@
 # Find the max value in only the left nodes of the tree
 
-# Do inorder traversal and just keep track of the values
 
 class Node:
 
