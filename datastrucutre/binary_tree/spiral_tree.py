@@ -1,5 +1,4 @@
 """
-Do level order traversal of a tree in spiral form
 """
 
 class Node:
