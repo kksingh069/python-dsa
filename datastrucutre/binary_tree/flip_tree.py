@@ -1,5 +1,4 @@
 # Flip a tree such like here
-# https://www.geeksforgeeks.org/flip-binary-tree/
 
 # 3. root->left = NULL
 
