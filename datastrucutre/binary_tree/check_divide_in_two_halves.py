@@ -3,7 +3,6 @@ Check if removing an edge of a binary tree can divide
 the tree in two equal halves
 
 Solution - Count the number of nodes, say n. Then traverse the tree
-in bottom up manner and find the size of every subtree (s). Check if n - s = s
 """
 
 class Node:
