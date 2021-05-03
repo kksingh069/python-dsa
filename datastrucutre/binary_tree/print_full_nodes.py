@@ -1,4 +1,3 @@
-# Given a tree, print all the full nodes of it
 
 class Node:
 
