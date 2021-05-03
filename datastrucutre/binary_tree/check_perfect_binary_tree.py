@@ -19,7 +19,6 @@ def check_perfect(root, d, level=0):
     if not root:
         return True
 
-    # If leaf node, then its depth must be same as that of other nodes
     if root.left is None and root.right is None:
         return d == (level + 1)
 
