@@ -1,5 +1,4 @@
 """
-Print left view of a binary tree
 """
 
 class Node:
