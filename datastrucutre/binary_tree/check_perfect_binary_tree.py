@@ -22,7 +22,6 @@ def check_perfect(root, d, level=0):
     if root.left is None and root.right is None:
         return d == (level + 1)
 
-    # An internal node with only one child
     if root.left is None or root.right is None:
         return False
 
