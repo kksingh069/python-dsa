@@ -1,5 +1,3 @@
-# Print all the nodes at odd levels of a binary tree
-
 class Node:
 
     def __init__(self, val):
