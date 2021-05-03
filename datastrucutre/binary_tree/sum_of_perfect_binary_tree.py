@@ -1,4 +1,3 @@
-# https://www.geeksforgeeks.org/find-sum-nodes-given-perfect-binary-tree/
 
 import math
 
