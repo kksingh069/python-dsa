@@ -1,7 +1,6 @@
 # Flip a tree such like here
 # https://www.geeksforgeeks.org/flip-binary-tree/
 
-# Flipping subtree algorithm
 # 3. root->left = NULL
 
 
