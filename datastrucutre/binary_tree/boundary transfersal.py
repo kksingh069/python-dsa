@@ -31,7 +31,6 @@ def print_left_boundary(root):
 def print_right_boundary(root):
     """
     The traversal here will be from top to bottom because 
-    this will be called after finishing the left side which is 
     top-to-bottom traversal
     """
     if root:
