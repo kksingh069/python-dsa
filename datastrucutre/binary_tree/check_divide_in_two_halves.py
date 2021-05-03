@@ -28,7 +28,6 @@ def check_util(root, n):
     if count(root) == n - count(root):
         return True
     
-    # Check for all the other nodes
     return check_util(root.left, n) or check_util(root.right, n)
 
 
