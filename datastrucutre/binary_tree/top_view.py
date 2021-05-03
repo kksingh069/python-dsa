@@ -35,6 +35,7 @@ def top_view(root):
     for i in sorted(d):
         print(d[i], end=" ")
         
+        
 
 root = Node(1)
 root.left = Node(2)
