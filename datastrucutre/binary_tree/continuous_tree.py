@@ -1,4 +1,3 @@
-# adjacent nodes is 1
 
 class Node:
 
