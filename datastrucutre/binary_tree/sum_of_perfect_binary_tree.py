@@ -1,4 +1,3 @@
-
 import math
 
 def sum_nodes(l):
