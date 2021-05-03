@@ -1,7 +1,5 @@
 """
-Print the boundary traversal of a binary tree
 
-Boundary traversal - root, left (top-down), bottom, right (bottom-up)
 """
 
 class Node:
