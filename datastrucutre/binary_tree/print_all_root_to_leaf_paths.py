@@ -1,6 +1,3 @@
-# append value in stack
-# traverse left
-# traverse right
 
 class Node:
 
