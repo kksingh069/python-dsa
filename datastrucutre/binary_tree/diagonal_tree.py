@@ -1,6 +1,5 @@
 # Print tree in a diagonal form
 
-# We use the distance of slope from the rightmost slope as key 
 # in a dict and then proceed
 
 class Node:
