@@ -1,4 +1,3 @@
-# A foldable tree is one such that the mirror of left subtree is equal
 
 class Node:
 
