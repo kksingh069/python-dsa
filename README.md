@@ -1,6 +1,6 @@
 # Python Data Structures and Algorithms
 
-No non-sense solutions to common Data Structure and Algorithm questions in Python.
+Solutions to common Data Structure and Algorithm questions in Python.
 
 
 ### Data Structures
