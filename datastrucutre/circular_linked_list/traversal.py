@@ -17,7 +17,6 @@ def push(head, val):
     curr.next = Node(val)
     curr.next.next = head
 
-
 def print_list(head):
     if not head:
         return
