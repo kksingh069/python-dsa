@@ -15,7 +15,6 @@ def check(head):
             return False
         curr = curr.next
 
-
 first = Node(1)
 second = Node(2)
 third = Node(3)
