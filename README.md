@@ -7,6 +7,4 @@ Solutions to common Data Structure and Algorithm questions in Python.
 
 ### Algorithms
 
-## License
 
-[MIT](LICENSE)
