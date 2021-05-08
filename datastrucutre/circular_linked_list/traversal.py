@@ -3,7 +3,6 @@ class Node():
     def __init__(self, val):
         self.val = val
         self.next = None
-
 def push(head, val):
     if not head:
         head = Node(val)
