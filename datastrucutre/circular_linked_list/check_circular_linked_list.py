@@ -4,7 +4,6 @@ class Node():
         self.val = val
         self.next = None
 
-
 def check(head):
     if not head:
         return True
