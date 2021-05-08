@@ -7,7 +7,6 @@ class Node():
 def delete(head, val):
     if head == None:
         return "List is empty"
-    
     curr = head
     prev = None
 
