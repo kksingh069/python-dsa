@@ -16,11 +16,7 @@ class Union_find:
         return x
 
     def union (self, a, b):
-        '''
-        Function to perform union of the nodes 'a' and 'b'
-        Input: node number, node number (integers between 0 and n-1)
-        Output: none
-        '''
+        
         print("Union", a, "and", b)
         roa = self.root(a)
         rob = self.root(b)
