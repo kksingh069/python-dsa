@@ -10,8 +10,6 @@ class Union_find:
 
     def root (self, x):
         '''
-        Function used to find root of a node "x"
-        Input: node number (integer between 0 and n-1)
         Output: node number (integer between 0 and n-1)
         '''
         while self.ar[x] != x:
