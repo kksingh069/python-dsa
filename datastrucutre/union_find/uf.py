@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-# 0-based indexing is used in this 
-# n is given as an input, which is the number of elements in the set 
 
 class Union_find:
     '''
