@@ -3,7 +3,6 @@
 class Union_find:
     '''
     Union-Find data structure along with required functions. Takes 'n' (integer) as input 
-    which is the total number of nodes in the structure.
     '''
     def __init__ (self, n):
         self.ar = [None] * n
