@@ -9,9 +9,7 @@ class Union_find:
         self.n = n
 
     def root (self, x):
-        '''
-        Output: node number (integer between 0 and n-1)
-        '''
+       
         while self.ar[x] != x:
             self.ar[x] = self.ar[self.ar[x]]
             x = self.ar[x]
