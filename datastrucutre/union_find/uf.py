@@ -2,7 +2,6 @@
 
 class Union_find:
     '''
-    Union-Find data structure along with required functions. Takes 'n' (integer) as input 
     '''
     def __init__ (self, n):
         self.ar = [None] * n
