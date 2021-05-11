@@ -1,8 +1,6 @@
 
 
 class Union_find:
-    '''
-    '''
     def __init__ (self, n):
         self.ar = [None] * n
         for i in range(n):
