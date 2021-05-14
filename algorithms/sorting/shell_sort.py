@@ -16,7 +16,6 @@ def shell_sort(arr):
 
             arr[j] = temp
         gap = int(gap / 2)
-
 arr = [ 12, 34, 54, 2, 3]
 
 shell_sort(arr)
