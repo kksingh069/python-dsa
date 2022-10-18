@@ -45,9 +45,6 @@ This repository contains the solutions to various commonly known algorithms and 
 * [trie](python-dsa/datastrucutre/trie/)
 * [union_find](python-dsa/datastrucutre/union_find/)
 
-## Support
-
-Check [Contribution](/CONTRIBUTING.md) Guide Before Contribution.
 
 ## Contributing
 
@@ -56,12 +53,7 @@ Check [Contribution](/CONTRIBUTING.md) Guide Before Contribution.
 
 - Create separate issues for Python .
 - You can only work on issues that you have been assigned to.
-- Use Flake8 locally for linting Python Code. `pip install flake8`.
-  (We have linting checks so if your code fails it we will not merge the PR.)
 
-## Authors and acknowledgment
-
-Show your appreciation to those who have contributed to the project.
 
 ## [License](/LICENSE)
 
