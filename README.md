@@ -30,4 +30,3 @@ This repository contains the solutions to various commonly known algorithms and 
 ## Maintainer
 
 * [Abhishek Tyagi](https://github.com/abhishektyagi2912)
-* [saatvik srivastava](https://github.com/saatvik25)
